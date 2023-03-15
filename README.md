@@ -29,7 +29,7 @@ Predicted headline: Euro hits record high against dollar
 - Download deep-news-summarization
 
 ```
-$ git clone https://github.com/hengluchang/deep-news-summarization.git
+$ git clone https://github.com/vrajpatel9988/Deep-News-Summarization.git
 ```
 
 - Install TensorFlow 0.12, pandas, Numpy, nltk, and requests
